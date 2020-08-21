@@ -53,6 +53,7 @@
             </ul>
         </div>
     </div>
+
     <!--主体部分采用iframe嵌入其他页面-->
     <div class="layui-body" style="overflow-y: hidden">
         <iframe name="ifmMain" src="/forward/notice" style="border: 0px;width: 100%;height: 100%"></iframe>
